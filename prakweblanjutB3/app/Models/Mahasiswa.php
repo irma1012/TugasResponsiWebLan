@@ -3,7 +3,6 @@
 namespace App\Models;
 
 use CodeIgniter\Model;
-use App/Models/Mahasiswa;
 
 class Mahasiswa extends Model
 {
